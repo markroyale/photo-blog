@@ -1,0 +1,18 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 125%;
+    font-weight: 600;
+
+}
+
+img {
+    width: 25%;
+    margin: calc(10%/6);
+}
+nav {
+    text-transform: uppercase;
+    border-bottom: 2px  solid #f1f1f1;
+    width: 25%;
+    margin-left: calc(10%/6);
+    padding: 20px 0;
+}
